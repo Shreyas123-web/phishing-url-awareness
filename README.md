@@ -21,7 +21,7 @@ Phishing is a social engineering technique where attackers use deceptive links t
 
 ```bash
 # Clone the repository
-git clone [https://github.com/](https://github.com/)<YOUR-USERNAME>/phishing-url-awareness.git
+git clone [https://github.com/](https://github.com/)<Shreyas123-web>/phishing-url-awareness.git
 cd phishing-url-awareness
 
 # Run the program
